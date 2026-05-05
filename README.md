@@ -2,9 +2,9 @@
 
 A React-based random cat viewer using the Random Cat API.
 
-**Live Demo:** 
+**Live Demo:** https://random-cat-viewer-iota.vercel.app/
 
-**GitHub Repo:** 
+**GitHub Repo:** https://github.com/tilak9606/random-cat-viewer
 
 ---
 
@@ -38,7 +38,7 @@ https://api.freeapi.app/api/v1/public/cats/cat/random
 ### Getting Started
 
 ```bash
-git clone [your-repo-url]
+git clone git@github.com:tilak9606/random-cat-viewer.git
 cd random-cat-viewer
 npm install
 npm run dev
